@@ -1,8 +1,8 @@
 # SKILL.md Specification
 
-**Version:** 0.1.0 — Initial Draft
-**Status:** Open for community review
-**Maintainer:** [Cromus.ai](https://cromus.ai)
+**Version:** 0.1.0 — Initial Draft  |
+**Status:** Open for community review  |
+**Maintainer:** [Cromus.ai](https://cromus.ai)  |
 **Published:** March 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
