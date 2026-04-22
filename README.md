@@ -217,7 +217,7 @@ You are free to use, share, and adapt this specification for any purpose, includ
 
 - [The Workflow Intelligence Manifesto](https://cromus.ai/manifesto) — the founding document defining Workflow Intelligence as a Service as a category
 - [Cromus Platform](https://cromus.ai) — the reference implementation
-- [SKILL.md Validator](https://cromus.ai/validator) *(coming soon)* — validate your SKILL.md files against this specification
+- [SKILL.md Validator](https://cromus.ai/validator) — validate your SKILL.md files against this specification
 
 ---
 
